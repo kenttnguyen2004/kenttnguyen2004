@@ -22,6 +22,8 @@ Used SQL and Excel to analyze workforce and compensation data, check reporting a
 
 ### [Interview Studio & Screen Focus Research](https://github.com/kenttnguyen2004/interviewMonitoring)
 
+![Demo 1](KentN-interviewMonitoringDemo-animated.gif)
+
 A local Python prototype combining webcam-based head and iris measurements with interview recording, transcription, and reporting. The public repository currently includes demo recordings and a project report.
 
 - **Computer vision:** Used OpenCV and MediaPipe to estimate head orientation and iris position, with a separate interface for gaze calibration and validation.
