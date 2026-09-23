@@ -22,7 +22,7 @@ Used SQL and Excel to analyze workforce and compensation data, check reporting a
 
 ### [Interview Studio & Screen Focus Research](https://github.com/kenttnguyen2004/interviewMonitoring)
 
-![Demo 1](https://github.com/kenttnguyen2004/interviewMonitoring/blob/main/KentN-interviewMonitoringDemo-animated.gif)
+[Demo 1](https://github.com/kenttnguyen2004/interviewMonitoring/blob/main/KentN-interviewMonitoringDemo-animated.gif)
 
 A local Python prototype combining webcam-based head and iris measurements with interview recording, transcription, and reporting. The public repository currently includes demo recordings and a project report.
 
